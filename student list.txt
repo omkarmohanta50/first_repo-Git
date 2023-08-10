@@ -1,0 +1,6 @@
+this is a record of students
+1. omkar mohanta
+2. nandini behera
+3. nitesh kumar behera
+4. biswajit patra
+5. tripati patra
